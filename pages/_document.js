@@ -6,9 +6,8 @@ const Document = () => {
             <Head>
                 <meta name="keywords" content="frontend, developer" />
                 <meta name="description" content="Igor Rumiantcev - Frontend Developer" />
-                <title>Igor Rumiantcev - Frontend Developer</title>
             </Head>
-            <body>
+            <body className='bg-gray-50 dark:bg-gray-800'>
                 <Main />
                 <NextScript />
             </body>
