@@ -7,7 +7,6 @@ import { FaGithub, FaLinkedinIn, FaTelegramPlane } from 'react-icons/fa';
 import Header from '../components/Header';
 import skills from '../data/skills.json';
 import experience from '../data/experience.json';
-import Script from 'next/script';
 
 const Index = () => {
     const [theme, setTheme] = useState('');
@@ -44,7 +43,7 @@ const Index = () => {
 
             <Header />
 
-            <section className='relative bg-white dark:bg-gray-800 mx-auto -mt-48 mb-12 p-8 xl:p-12 w-full xl:w-1/2 2xl:w-[750px] max-w-[calc(100%-1rem)] rounded-xl shadow-xl dark:shadow-none dark:border dark:border-gray-700'>
+            <section className='relative bg-white dark:bg-gray-800 mx-auto -mt-48 mb-12 p-8 xl:p-12 w-full xl:w-1/2 2xl:w-[750px] max-w-[calc(100%-1rem)] rounded-xl shadow-xl dark:shadow-none border dark:border-gray-700'>
                 <button
                     onClick={toggleTheme}
                     className='right-12 absolute hover:bg-gray-100 dark:hover:bg-gray-700 active:bg-gray-200 p-2 transition rounded-full'
@@ -70,7 +69,7 @@ const Index = () => {
                         {skills.map((item, index) => (
                             <div
                                 key={`${item}${index}`}
-                                className='py-1 px-3 text-sm bg-amber-600 dark:bg-transparent dark:border dark:border-amber-600 text-amber-100 dark:text-amber-600 rounded-2xl'
+                                className='py-1 px-3 text-sm bg-amber-600 dark:bg-transparent border border-amber-600 text-amber-100 dark:text-amber-600 rounded-2xl'
                             >
                                 {item}
                             </div>
@@ -130,12 +129,3 @@ const Index = () => {
     );
 }
 export default Index;
-
-// export async function getServerSideProps(context) {
-//
-//     console.log('context', context);
-//
-//     return {
-//         props: {}, // will be passed to the page component as props
-//     }
-// }
