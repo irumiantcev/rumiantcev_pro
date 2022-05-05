@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Vertical App",
+    "period": "May 2021 - Present",
+    "img": "/images/logos/vertical.jpeg",
+    "description": "Application for hotel room management",
+    "link": "https://apps.apple.com/ru/app/vertical-hotel/id1554639609"
+  },
+  {
+    "title": "Kaizen",
+    "period": "Nov 2020 - Present",
+    "img": "/images/logos/kaizen.svg",
+    "description": "A cloud platform for commercial real estate management that migrates all the facility management operations to a simple application.",
+    "link": "https://kaizen.run"
+  }
+]
