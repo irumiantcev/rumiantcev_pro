@@ -29,6 +29,7 @@ const Projects = () => (
                             <a className='flex items-center gap-2 text-blue-600 dark:text-blue-200 hover:text-blue-900 dark:hover:text-blue-400' href={item.link} target='_blank'><FaExternalLinkAlt /> Show project</a>
                         </p>
                         <p className='whitespace-pre-line text-gray-500 dark:text-gray-400 leading-normal text-sm mt-2'>{item.description}</p>
+                        <p className='whitespace-pre-line text-gray-500 dark:text-gray-400 leading-normal text-sm mt-4'>Skills: {item.skills.map((skill, index) => <span className='mr-1 first:ml-1 last:mr-0 after:content-["·"] last:after:content-none after:ml-1 last:after:ml-0' key={`${skill}${index}`}>{skill}</span>)}</p>
                     </div>
                 </div>
             ))}
