@@ -1,11 +1,19 @@
 [
   {
-    "title": "Vertical App",
+    "title": "Vertical Hotel App",
     "period": "May 2021 - Present",
     "img": "/images/logos/vertical.jpeg",
-    "description": "- Application for hotel room management \n - Admin panel for app management",
+    "description": "- Application for hotel room management",
     "link": "https://apps.apple.com/ru/app/vertical-hotel/id1554639609",
-    "skills": ["JavaScript", "React", "Redux", "React Native", "Tailwind CSS"]
+    "skills": ["JavaScript", "Framework7"]
+  },
+  {
+    "title": "Digital Hotel",
+    "period": "October 2021 - Present",
+    "img": "/images/logos/digital hotel.svg",
+    "description": "- Administrative panel to manage the application",
+    "link": "https://guestadmin.becar.ru/",
+    "skills": ["JavaScript", "React", "Redux", "Tailwind CSS"]
   },
   {
     "title": "Kaizen",

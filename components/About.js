@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { FaGithub, FaLinkedinIn, FaTelegramPlane } from 'react-icons/fa';
+import { FaAt, FaGithub, FaLinkedinIn, FaTelegramPlane } from 'react-icons/fa';
 import skills from '../data/skills.json';
 
 const About = () => (
@@ -41,6 +41,9 @@ const About = () => (
             </a>
             <a href="https://github.com/irumiantcev" target='_blank' className='hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full p-2'>
                 <FaGithub size={26} />
+            </a>
+            <a href="mailto:rumisigor@gmail.com" className='hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full p-2'>
+                <FaAt size={26} />
             </a>
             <a href="https://t.me/irumiantcev" target='_blank' className='hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full p-2'>
                 <FaTelegramPlane size={26} />

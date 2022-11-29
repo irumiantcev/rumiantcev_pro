@@ -4,27 +4,27 @@
     "title": "Kaizen CRE Solutions",
     "period": "Nov 2020 - Present",
     "img": "/images/logos/kaizen.svg",
-    "description": "- Frontend developing (JavaScript, React, Redux)"
+    "description": "- Frontend developing (JavaScript, TypeScript, React, Redux)"
   },
   {
     "position": "Full Stack Developer",
     "title": "Becar Asset Management Group",
     "period": "Jun 2015 - Present",
     "img": "/images/logos/becar.png",
-    "description": "- Frontend developing (JavaScript, React, Redux, Next.js, React Native)\n- Backend developing (PHP)\n- Agile (Experience as a Scrum Master in a team of 6 people)"
+    "description": "- Frontend developing (JavaScript, TypeScript, React, Redux, Next.js, React Native)\n- Backend developing (PHP)\n- Agile (Experience as a Scrum Master in a team of 6 people)"
   },
   {
     "position": "Full Stack Developer",
     "title": "LoftWeb Digital Agency",
     "period": "Dec 2014 - May 2015",
     "img": "/images/logos/loftweb.jpg",
-    "description": "- Frontend developing (HTML, CSS, JavaScript, jQuery, Bootstrap)\n- Backend developing (PHP, MySQL, CMS Wordpress, CMS Bitrix, CMS Joomla)"
+    "description": "- Frontend developing (HTML, CSS, JavaScript, jQuery, Bootstrap)\n- Backend developing (PHP)"
   },
   {
     "position": "Full Stack Developer",
     "title": "Webstride",
     "period": "Mar 2012 - Dec 2014",
     "img": "/images/logos/webstride.jpg",
-    "description": "- Frontend developing (HTML, CSS, Javascript, jQuery, Bootstrap)\n- Backend developing (PHP, MySQL, CMS Wordpress, CMS Bitrix, CMS Joomla, CMS OpenCart)"
+    "description": "- Frontend developing (HTML, CSS, Javascript, jQuery, Bootstrap)\n- Backend developing (PHP)"
   }
 ]
