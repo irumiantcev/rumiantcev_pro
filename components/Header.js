@@ -1,11 +1,8 @@
-const Header = () => (
+export const Header = () => (
     <section
-        className='w-full h-96 bg-top bg-cover'
+        className="h-96 w-full bg-cover bg-top"
         style={{
-            backgroundImage: 'url(images/belgrade.jpg)'
+            backgroundImage: 'url(images/belgrade.jpg)',
         }}
-    >
-    </section>
+    ></section>
 );
-
-export default Header;

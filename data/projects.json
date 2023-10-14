@@ -1,26 +1,34 @@
 [
-  {
-    "title": "Vertical Hotel App",
-    "period": "May 2021 - Present",
-    "img": "/images/logos/vertical.jpeg",
-    "description": "- Application for hotel room management",
-    "link": "https://apps.apple.com/ru/app/vertical-hotel/id1554639609",
-    "skills": ["JavaScript", "Framework7"]
-  },
-  {
-    "title": "Digital Hotel",
-    "period": "October 2021 - Present",
-    "img": "/images/logos/digital hotel.svg",
-    "description": "- Administrative panel to manage the application",
-    "link": "https://guestadmin.becar.ru/",
-    "skills": ["JavaScript", "React", "Redux", "Tailwind CSS"]
-  },
-  {
-    "title": "Kaizen",
-    "period": "Nov 2020 - Present",
-    "img": "/images/logos/kaizen.svg",
-    "description": "- A cloud platform for commercial real estate management that migrates all the facility management operations to a simple application.",
-    "link": "https://kaizen.run",
-    "skills": ["JavaScript", "React", "Redux", "Tailwind CSS"]
-  }
+    {
+        "title": "Real Estate Investment Office",
+        "period": "Mar 2023 - Present",
+        "img": "/images/logos/reio.png",
+        "description": "A mobile application designed for iOS and Android that allows interaction between the management company and private investors regarding their investment apartments.",
+        "link": "https://apps.apple.com/us/app/real-estate-investment-office/id6463623164",
+        "skills": ["JavaScript", "TypeScript", "React Native", "React", "Redux", "Tailwind CSS"]
+    },
+    {
+        "title": "Digital Concierge",
+        "period": "October 2021 - Present",
+        "img": "/images/logos/dc.png",
+        "description": "A mobile application designed for iOS and Android that allows hotel guests to manage their stay and enjoy comfort and convenience. The app allows guests to order additional services, make restaurant reservations, and get information about local attractions without leaving their rooms.",
+        "link": "https://apps.apple.com/us/app/digital-concierges/id1658980435",
+        "skills": ["JavaScript", "TypeScript", "Framework7"]
+    },
+    {
+        "title": "Digital Concierge Admin",
+        "period": "October 2021 - Present",
+        "img": "/images/logos/digital hotel.svg",
+        "description": "Administrative panel for managing application content, communicating with guests, processing product and food orders.",
+        "link": "https://guestadmin.becar.ru/",
+        "skills": ["JavaScript", "React", "Redux", "Tailwind CSS"]
+    },
+    {
+        "title": "Kaizen",
+        "period": "Nov 2020 - Present",
+        "img": "/images/logos/kaizen.svg",
+        "description": "A cloud platform for commercial real estate management that migrates all the facility management operations to a simple application.",
+        "link": "https://kaizen.run",
+        "skills": ["JavaScript", "React", "Redux", "Tailwind CSS"]
+    }
 ]

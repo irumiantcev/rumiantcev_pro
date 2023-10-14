@@ -1,30 +1,34 @@
 [
-  {
-    "position": "Frontend Developer",
-    "title": "Kaizen CRE Solutions",
-    "period": "Nov 2020 - Present",
-    "img": "/images/logos/kaizen.svg",
-    "description": "- Frontend developing (JavaScript, TypeScript, React, Redux)"
-  },
-  {
-    "position": "Full Stack Developer",
-    "title": "Becar Asset Management Group",
-    "period": "Jun 2015 - Present",
-    "img": "/images/logos/becar.png",
-    "description": "- Frontend developing (JavaScript, TypeScript, React, Redux, Next.js, React Native)\n- Backend developing (PHP)\n- Agile (Experience as a Scrum Master in a team of 6 people)"
-  },
-  {
-    "position": "Full Stack Developer",
-    "title": "LoftWeb Digital Agency",
-    "period": "Dec 2014 - May 2015",
-    "img": "/images/logos/loftweb.jpg",
-    "description": "- Frontend developing (HTML, CSS, JavaScript, jQuery, Bootstrap)\n- Backend developing (PHP)"
-  },
-  {
-    "position": "Full Stack Developer",
-    "title": "Webstride",
-    "period": "Mar 2012 - Dec 2014",
-    "img": "/images/logos/webstride.jpg",
-    "description": "- Frontend developing (HTML, CSS, Javascript, jQuery, Bootstrap)\n- Backend developing (PHP)"
-  }
+    {
+        "position": "Frontend Developer",
+        "title": "Kaizen CRE Solutions",
+        "period": "Nov 2020 - Present",
+        "location": "Dubai, United Arab Emirates",
+        "img": "/images/logos/kaizen.svg",
+        "description": "· Frontend developing (JavaScript, TypeScript, React, Redux, React Native, Tailwind CSS) \n· Agile (Experience as a Scrum Master in a team of 6 people)"
+    },
+    {
+        "position": "Full Stack Developer",
+        "title": "Becar Asset Management Group",
+        "period": "Jun 2015 - Present",
+        "location": "St Petersburg, Russia",
+        "img": "/images/logos/becar.png",
+        "description": "· Frontend developing (JavaScript, TypeScript, React, Redux, Next.js, React Native, Framework7, Tailwind CSS) \n· Backend developing (PHP) \n· Agile Experience as a Scrum Master)"
+    },
+    {
+        "position": "Full Stack Developer",
+        "title": "LoftWeb Digital Agency",
+        "period": "Dec 2014 - May 2015",
+        "location": "Moscow, Russia",
+        "img": "/images/logos/loftweb.jpg",
+        "description": "· Frontend developing (HTML, CSS, JavaScript, jQuery, Bootstrap) \n· Backend developing (PHP, MySQL) \n· Experience with CMS (CMS Wordpress, CMS Bitrix, CMS Joomla)"
+    },
+    {
+        "position": "Full Stack Developer",
+        "title": "Webstride",
+        "period": "Mar 2012 - Dec 2014",
+        "location": "St Petersburg, Russia",
+        "img": "/images/logos/webstride.jpg",
+        "description": "· Frontend developing (HTML, CSS, Javascript, jQuery, Bootstrap)\n· Backend developing (PHP)"
+    }
 ]
