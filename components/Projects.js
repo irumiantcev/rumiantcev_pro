@@ -17,14 +17,18 @@ export const Projects = () => (
                         <h3 className="font-bold">{item.title}</h3>
                         <p className="mt-1 flex flex-wrap gap-2 text-sm text-gray-500 dark:text-gray-400">
                             <span>{item.period}</span>
-                            <span>·</span>
-                            <a
-                                className="flex items-center gap-2 text-blue-600 hover:text-blue-900 dark:text-blue-200 dark:hover:text-blue-400"
-                                href={item.link}
-                                target="_blank"
-                            >
-                                <FaExternalLinkAlt /> Show project
-                            </a>
+                            {item.link && (
+                                <>
+                                    <span>·</span>
+                                    <a
+                                        className="flex items-center gap-2 text-blue-600 hover:text-blue-900 dark:text-blue-200 dark:hover:text-blue-400"
+                                        href={item.link}
+                                        target="_blank"
+                                    >
+                                        <FaExternalLinkAlt /> Show project
+                                    </a>
+                                </>
+                            )}
                         </p>
                         <p className="mt-2 whitespace-pre-line text-sm leading-normal text-gray-500 dark:text-gray-400">
                             {item.description}
