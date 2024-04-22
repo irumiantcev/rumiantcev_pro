@@ -1,19 +1,35 @@
 [
     {
-        "position": "Frontend Developer",
-        "title": "Kaizen CRE Solutions",
-        "period": "Nov 2020 - Present",
-        "location": "Dubai, United Arab Emirates",
-        "img": "/images/logos/kaizen.svg",
-        "description": "· Frontend developing (JavaScript, TypeScript, React, Redux, React Native, Tailwind CSS) \n· Agile (Experience as a Scrum Master in a team of 6 people)"
-    },
-    {
-        "position": "Full Stack Developer",
-        "title": "Becar Asset Management Group",
+        "title": "Proptech Solutions",
         "period": "Jun 2015 - Present",
-        "location": "St Petersburg, Russia",
-        "img": "/images/logos/becar.png",
-        "description": "· Frontend developing (JavaScript, TypeScript, React, Redux, Next.js, React Native, Framework7, Tailwind CSS) \n· Backend developing (PHP) \n· Agile Experience as a Scrum Master)"
+        "location": "Dubai, United Arab Emirates",
+        "img": "/images/logos/proptech_solutions.jpeg",
+        "experience": [
+            {
+                "position": "Frontend Developer",
+                "period": "Apr 2020 - Present",
+                "description": "· Skills: Javascript, TypeScript, Tailwind CSS \n · Frameworks & Libraries: React, React Native, Framework7"
+            },
+            {
+                "position": "Scrum Master",
+                "period": "May 2022 - Present",
+                "description": "· Experience as a Scrum Master in a team of 6 people \n · Skills: Agile Methodologies · Scrum · Kanban · Scrumban"
+            },
+            {
+                "position": "Full Stack Developer",
+                "period": "Jun 2015 - Apr 2020",
+                "description": "· Frontend development skills: JavaScript, jQuery, HTML \n · Backend development skills: PHP, REST API \n · CMS & Libraries: CMS Wordpress, CMS Bitrix, CMS Joomla"
+            }
+        ]
+    },
+
+    {
+        "position": "Freelance WebGL",
+        "title": "Freelance",
+        "period": "May 2022 - Present",
+        "location": "Remote",
+        "img": "/images/logos/webgl.svg",
+        "description": "· Skills: JavaScript, Three.js, GLSL, GreenSock Animation Platform (GSAP), Blender"
     },
     {
         "position": "Full Stack Developer",
@@ -21,7 +37,7 @@
         "period": "Dec 2014 - May 2015",
         "location": "Moscow, Russia",
         "img": "/images/logos/loftweb.jpg",
-        "description": "· Frontend developing (HTML, CSS, JavaScript, jQuery, Bootstrap) \n· Backend developing (PHP, MySQL) \n· Experience with CMS (CMS Wordpress, CMS Bitrix, CMS Joomla)"
+        "description": "· Frontend development skills: HTML, CSS, JavaScript, jQuery, Bootstrap \n · Backend development skills: PHP, REST API, MySQL \n · CMS & Libraries: CMS Wordpress, CMS Bitrix, CMS Joomla"
     },
     {
         "position": "Full Stack Developer",
@@ -29,6 +45,6 @@
         "period": "Mar 2012 - Dec 2014",
         "location": "St Petersburg, Russia",
         "img": "/images/logos/webstride.jpg",
-        "description": "· Frontend developing (HTML, CSS, Javascript, jQuery, Bootstrap)\n· Backend developing (PHP)"
+        "description": "· Frontend development skills: HTML, CSS, Javascript, jQuery, Bootstrap \n · Backend development skills: PHP, MySQL \n · CMS & Libraries: CMS Wordpress, CMS Bitrix, CMS Joomla, CMS OpenCart"
     }
 ]

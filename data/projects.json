@@ -13,15 +13,7 @@
         "img": "/images/logos/dc.svg",
         "description": "A mobile application designed for iOS and Android that allows hotel guests to manage their stay and enjoy comfort and convenience. The app allows guests to order additional services, make restaurant reservations, and get information about local attractions without leaving their rooms.",
         "link": "https://apps.apple.com/us/app/digital-concierges/id1658980435",
-        "skills": ["JavaScript", "TypeScript", "Framework7"]
-    },
-    {
-        "title": "Digital Concierge Admin",
-        "period": "October 2021 - Present",
-        "img": "/images/logos/dc.svg",
-        "description": "Administrative panel for managing application content, communicating with guests, processing product and food orders.",
-        "link": "",
-        "skills": ["JavaScript", "React", "Redux", "Tailwind CSS"]
+        "skills": ["JavaScript", "TypeScript", "Framework7", "React", "Tailwind CSS"]
     },
     {
         "title": "Kaizen",

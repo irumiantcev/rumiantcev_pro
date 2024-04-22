@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { FaAt, FaGithub, FaLinkedinIn, FaTelegramPlane } from 'react-icons/fa';
+
 import skills from '../data/skills.json';
 
 export const About = () => (
@@ -9,7 +10,7 @@ export const About = () => (
         <h1 className="mb-1 mt-3 text-3xl font-black">Igor Rumiantcev</h1>
 
         <h3 className="flex gap-2 text-gray-500 dark:text-gray-400">
-            <span>Frontend</span> · <span>Backend</span> · <span>Belgrade, Serbia</span>
+            <span>Frontend</span> · <span>React</span> · <span>React Native</span> · <span>Three.js</span> · <span>Belgrade, Serbia</span>
         </h3>
 
         <div className="mb-12 mt-3 flex flex-wrap gap-3">
@@ -27,12 +28,17 @@ export const About = () => (
 
         <div className="mb-5">
             <p className="mb-2">
-                My name is Igor and I'm frontend developer. My passion is SPA with React and Mobile Apps with React Native.
+                My name is Igor and I am a dedicated Frontend Developer with a strong passion for Single Page Applications (SPAs) using
+                React and Mobile App development with React Native.
             </p>
             <p className="mb-2">
-                I'm interested in 3D computer graphics and animation in Web, so I use Three.js, GreenSock, etc in my projects.
+                My expertise extends to the exciting world of 3D computer graphics and animation on the web, where I leverage tools like
+                Three.js and GreenSock to bring creative visions to life.
             </p>
-            <p>I also know PHP. I have been working for the last 6 years as FullStack Developer (70% - Frontend, 30% - Backend).</p>
+            <p>
+                Additionally, I possess a solid foundation in PHP. Over the last 6 years, I have cultivated my skills as a FullStack
+                Developer, focusing predominantly on frontend (70%) and backend (30%) development.
+            </p>
         </div>
 
         <div className="flex gap-4">

@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { FaExternalLinkAlt } from 'react-icons/fa';
+
 import projects from '../data/projects.json';
 
 export const Projects = () => (
