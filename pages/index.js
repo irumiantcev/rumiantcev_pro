@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import { useEffect, useState } from 'react';
 import { IoMoonOutline, IoSunnyOutline } from 'react-icons/io5';
+
 import { About } from '../components/About';
 import { Experience } from '../components/Experience';
 import { Header } from '../components/Header';
@@ -46,8 +47,11 @@ const Index = () => {
                 >
                     {theme ? theme === 'dark' ? <IoSunnyOutline size={24} color="#fff" /> : <IoMoonOutline size={24} /> : ''}
                 </button>
+
                 <About />
+
                 <Experience />
+
                 <Projects />
             </section>
         </div>

@@ -1,5 +1,6 @@
 import withYM from 'next-ym';
 import Router from 'next/router';
+
 import '../public/css/global.css';
 
 const MyApp = ({ Component, pageProps }) => {
